@@ -1,3 +1,3 @@
-# Kokoa Clonw 2022 Start
+# My first Programming Start, Kokoa Clone
 
-CSS funny
+아직은 많이 부족하지만.
